@@ -4,7 +4,7 @@ Esta practica consiste en la configuración y administración de dispositivos en
 
 ## Configuración de la topologia
   - Paso1
-![alt text](Isolated.png "Title")
+![alt text](Imagenes/F0_0.png "Title")
   - Paso2
 ![alt text](Isolated.png "Title")
   - Paso3
